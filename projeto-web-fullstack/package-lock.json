@@ -1,0 +1,33 @@
+{
+  "name": "projeto-fullstack-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandalr2004/projeto-fullstack-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandalr2004/projeto-fullstack-web/issues"
+  },
+  "homepage": "https://github.com/amandalr2004/projeto-fullstack-web#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parse": "^0.1.0",
+    "connect-multiparty": "^2.2.0",
+    "expresse": "^1.0.2",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.29.3",
+    "mongoose": "^6.3.4",
+    "nodejs": "^0.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
